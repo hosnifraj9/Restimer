@@ -14,7 +14,22 @@
           "line": 0
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/README.md",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 10,
+          "line": 0
+        },
+        "start": {
+          "column": 10,
+          "index": 10,
+          "line": 0
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/build.gradle"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/README.md"
 }
