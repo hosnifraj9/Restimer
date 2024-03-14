@@ -29,7 +29,22 @@
           "line": 1
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 37,
+          "index": 436,
+          "line": 12
+        },
+        "start": {
+          "column": 37,
+          "index": 436,
+          "line": 12
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/README.md"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/AndroidManifest.xml"
 }
