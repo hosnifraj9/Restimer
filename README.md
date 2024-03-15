@@ -1,2 +1,5 @@
 # Restimer
-A simple rest timer, you can use for your workouts, or to rest between work/study sessions
+A simple rest timer for Android.
+---
+Why I made this?
+Basically, to prevent myself from 'overesting' and procastination.

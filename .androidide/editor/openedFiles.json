@@ -19,14 +19,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/README.md",
       "selection": {
         "end": {
-          "column": 90,
-          "index": 101,
-          "line": 1
+          "column": 66,
+          "index": 131,
+          "line": 4
         },
         "start": {
-          "column": 90,
-          "index": 101,
-          "line": 1
+          "column": 66,
+          "index": 131,
+          "line": 4
         }
       }
     },
@@ -34,17 +34,62 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/AndroidManifest.xml",
       "selection": {
         "end": {
-          "column": 37,
-          "index": 436,
-          "line": 12
+          "column": 11,
+          "index": 762,
+          "line": 22
         },
         "start": {
-          "column": 37,
-          "index": 436,
-          "line": 12
+          "column": 11,
+          "index": 762,
+          "line": 22
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": 477,
+          "line": 11
+        },
+        "start": {
+          "column": 40,
+          "index": 477,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/java/com/hosni/restimer/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 27,
+          "index": 273,
+          "line": 10
+        },
+        "start": {
+          "column": 27,
+          "index": 273,
+          "line": 10
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/app/src/main/AndroidManifest.xml"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Restimer/README.md"
 }
