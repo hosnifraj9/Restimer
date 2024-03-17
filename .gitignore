@@ -83,4 +83,4 @@ lint/tmp/
 # lint/reports/
 
 # AndroidIDE local files
-.androidide
+.androidide/
